@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Benim Game Jam Sayfam</title>
+    <style>
+        body { font-family: sans-serif; text-align: center; background: #111; color: white; padding: 50px; }
+        .button { background: #fa5c5c; color: white; padding: 15px 25px; text-decoration: none; border-radius: 5px; font-weight: bold; }
+    </style>
+</head>
+<body>
+    <h1>Hoş Geldiniz! Game Jam Yakında Başlıyor.</h1>
+    <p>Tema: Yakında Açıklanacak</p>
+    <br><br>
+    <a href="ITCH_IO_JAM_LINKIN" class="button">ITCH.IO ÜZERİNDEN KATIL</a>
+</body>
+</html>
